@@ -1,0 +1,5 @@
+my PEP8
+
+1. Max column number to be limited to 80, use black w/ VSStudio.
+2. Ident with four spaces
+3. Snake case for variable names for e.g. hello_world
