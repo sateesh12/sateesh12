@@ -16,4 +16,7 @@
 
 # imports
 12. Always at the top of the file.
+13. One module imported in one line
+14. from  os import stat, path is OK
+15. from os import * is NOT OK
 
