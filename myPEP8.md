@@ -47,5 +47,7 @@ is OK
 # Exceptions
 29. Always catch a particular exception by name and not a catch all.
 
+Credits to https://youtu.be/D4_s3q038I0 
+
 
 
