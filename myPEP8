@@ -10,3 +10,7 @@ Naming conventions:
 6. Function name is hello_world(), same snake case.
 7. Class names are CamelCase class HelloWorld
 8. Exceptoins are also in CamelCase
+9. First parameter to a constructor always be to named as self
+10. Class methods first parameter must be cls.
+11. Two blank lines between classes and functions, howevere one blank line between methods within the same class
+
