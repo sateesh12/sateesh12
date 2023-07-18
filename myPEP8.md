@@ -19,4 +19,33 @@
 13. One module imported in one line
 14. from  os import stat, path is OK
 15. from os import * is NOT OK
+16. imports can be after the docstring which is """
+
+# Quotations
+17. Always use single quotataion marks
+
+
+# Whitespace
+18. No white spaces before or after index or tuple or trailing comma or end of method name
+19. One witespace on each side of equal sign
+20. One whitespace before and after an operator
+21. When showing prcedence of operators no white spaces
+22. a = b + c is OK
+23. a = (b+c) * (d+e) is OK
+24. def complex(real, imag=0):
+25.     return magic(r=real,i=imag) is OK
+26. blah blah <b><b>#<b>This is an inline comment is OK
+
+# Type checking
+27. if foo is not 'X':
+        pass
+is OK
+28. if foo is "x::
+        pass
+is OK
+
+# Exceptions
+29. Always catch a particular exception by name and not a catch all.
+
+
 
